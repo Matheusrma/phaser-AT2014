@@ -1,4 +1,4 @@
-Phaser Game Test 4 AT2014
+Phaser Game Test AT2014
 
 To Run:
 
