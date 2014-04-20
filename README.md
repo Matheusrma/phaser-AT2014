@@ -4,4 +4,4 @@ To Run:
 
     npm install
     http-server
-    http://localhost:8080
+    Page served at http://localhost:8080
